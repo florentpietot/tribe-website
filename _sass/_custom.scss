@@ -1,6 +1,5 @@
 * {
 	max-width: 100%;
-	overflow: hidden;
 }
 
 body {
@@ -10,6 +9,7 @@ body {
 
 h1 {
 	font-size:$size-multiplier-2;
+	margin-bottom: 2.8124999965em;
 }
 
 h2 {
@@ -24,11 +24,31 @@ p {
 	margin-bottom:2.625em;
 }
 
-
-.wrapper {
-	// max-width:375px;
-}
-
 .page-content {
 	margin: 5 * $spacing-unit 0 5 * $spacing-unit;
+}
+
+.emoji {
+	padding-bottom: 0.3125em;
+	height: 36px;
+}
+
+.emoji-hand {
+	// width: 23px;
+}
+
+.emoji-mobile {
+	// width: 18px;
+}
+
+.emoji-rocket {
+	// width: 27px;
+}
+
+.emoji-mail {
+	// width: 28px;
+}
+
+.site-footer {
+	padding-bottom: 1em;
 }
