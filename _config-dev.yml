@@ -1,0 +1,8 @@
+# Site settings
+title: Tribe Dev
+url: "http://www.wearetribe.io/" # the base hostname & protocol for your site
+google_analytics: #UA-71447316-1
+host: 0.0.0.0
+
+# Build settings
+markdown: kramdown
