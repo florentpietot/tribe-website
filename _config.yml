@@ -11,8 +11,6 @@ email: hi@wearetribe.io
 description: > # this means to ignore newlines until "baseurl:"
   We are tribe, a studio for mobile first startups 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.wearetribe.io" # the base hostname & protocol for your site
-host: 0.0.0.0
-
+url: "http://florentpietot.github.io/tribe-website/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
