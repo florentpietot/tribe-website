@@ -1,6 +1,21 @@
+* {
+	max-width: 100%;
+	overflow: hidden;
+}
+
 body {
 	font-size:16px;
 	text-align:center;
+}
+
+h1 {
+	font-size:$size-multiplier-2;
+}
+
+h2 {
+	font-size:1.777777778em;
+	line-height:1.3em;
+	margin-bottom:0.1785714286em;
 }
 
 p {
@@ -9,11 +24,11 @@ p {
 	margin-bottom:2.625em;
 }
 
-h2 {
-	font-size:1.777777778em;
-	line-height:1.3em;
-}
 
 .wrapper {
-	max-width:375px;
+	// max-width:375px;
+}
+
+.page-content {
+	margin: 5 * $spacing-unit 0 5 * $spacing-unit;
 }
