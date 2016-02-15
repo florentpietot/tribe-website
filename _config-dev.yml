@@ -1,7 +1,7 @@
 # Site settings
 title: Tribe Dev
 url: "localhost:4000" # the base hostname & protocol for your site
-google_analytics: #UA-71447316-1
+google_analytics: #UA-61688925-1
 baseurl: #"/tribe-website"
 host: 0.0.0.0
 
