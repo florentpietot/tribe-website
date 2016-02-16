@@ -9,7 +9,7 @@
 title: Tribe
 email: coffee@wearetribe.io
 description: > # this means to ignore newlines until "baseurl:"
-  We are tribe, a studio for mobile startups
+  Building mobile first startups
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.wearetribe.io" # the base hostname & protocol for your site
 google_analytics: UA-61688925-1
