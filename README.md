@@ -1,2 +1,4 @@
-# tribe-website
-Tribe's website
+# Tribe
+We are tribe
+We work with mobile first startups
+Help them design, build and launch
